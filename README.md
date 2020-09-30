@@ -250,3 +250,4 @@ If you want to write your own color scheme for MagicPython you can
 find a list of all the scopes that we use in
 [misc/scopes](misc/scopes). The file is automatically generated based
 on the syntax grammar, so it is always up-to-date and exhaustive.
+* [avitauser99](https://github.com/avitauser99)
